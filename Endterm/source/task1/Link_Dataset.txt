@@ -1,0 +1,3 @@
+CAU1
+HuggingFace: https://huggingface.co/datasets/uitnlp/OpenViVQA-dataset
+Kaggle: https://huggingface.co/datasets/uitnlp/OpenViVQA-dataset

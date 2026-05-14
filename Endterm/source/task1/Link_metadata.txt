@@ -1,0 +1,4 @@
+CAU1
+Demo: https://drive.google.com/file/d/1NwfvLl2Nb_VPamFbcH8YuJ9_VakT52Gc/view?usp=sharing
+Model đã train: https://huggingface.co/HarryT1211/DL_VQA/tree/main
+GitHub: https://github.com/Tdesius/OpenViVQA
